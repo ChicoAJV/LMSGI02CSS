@@ -1,4 +1,4 @@
-# TEMA 2.1 LMSG
+# TEMA 2 LMSG
 
 ## Introducción a CSS.
 
@@ -6,7 +6,7 @@
 
 ### El enlace a la web es:
 
-# https://rawgit.com/AlexJV/LMSG02CSS/master/index.html
+# https://rawcdn.githack.com/ChicoAJV/LMSGI02CSS/0bb732c05e038a21011a76a29a23f0061b4e2c76/index.html
 
 ### El enlace a Github es: 
 
@@ -14,8 +14,10 @@
 
 ### Web validada con:
 
-# https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Frawgit.com%2FAlexJV%2FLMSG02CSS%2Fmaster%2Findex.html
+# https://validator.w3.org/nu/?doc=https%3A%2F%2Frawcdn.githack.com%2FChicoAJV%2FLMSGI02CSS%2F0bb732c05e038a21011a76a29a23f0061b4e2c76%2Findex.html
 
-### Web de paleta de colores:
+### No entiendo bien el warning, cuando añado lang en el lugar que he visto en muchas páginas, en vez de warning me da error.
 
-# https://html-color-codes.info/codigos-de-colores-hexadecimales/?
+### Web de validación de CSS:
+
+# https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawcdn.githack.com%2FChicoAJV%2FLMSGI02CSS%2F0bb732c05e038a21011a76a29a23f0061b4e2c76%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es
