@@ -10,7 +10,7 @@
 
 ### El enlace a Github es: 
 
-# https://github.com/AlexJV/LMSG02CSS
+# https://github.com/ChicoAJV/LMSGI02CSS
 
 ### Web validada con:
 
